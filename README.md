@@ -1,0 +1,2 @@
+# SimpleMessaging
+Simple messaging library
